@@ -1,8 +1,8 @@
 # LearningPython
 > This repository contains 3 python programs:
-- Circumference.py
-- areaCode.py
-- Genes.py, Genes2.py and Genes3.py (is the same program but involves different syntaxes for achieving the same function)
+- [Circumference.py](circumference.py)
+- [areaCode.py](areaCode.py)
+- [gene_names.py](gene_names.py), [gene_names2.py](gene_names2.py) and [gene_names3.py](gene_names3.py) (is the same program but involves different syntaxes for achieving the same function)
 ## Circumference.py
 > This creates a basic python script called circumference.py that assigns pi to 3.14159 and prints the circumference of a circle given a second variable radius with the initial value of 3.  
 > The radius is defines within the script.  
