@@ -39,5 +39,5 @@ The area code is: 602
   {"geneName":"OR4G4P","chr":"1","startPos":52473, "endPos":54936},
   ... 
 ]
-- > where … are additional genes.
 ```
+- > where ... are additional genes
